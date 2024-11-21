@@ -7,7 +7,7 @@
   "download_link": "https://github.com/moveyourdigital/wp-tailwind-css/archive/refs/heads/main.zip",
   "support_url": "https://github.com/moveyourdigital/wp-tailwind-css/issues",
   "requires": "5.8",
-  "tested": "6.5.3",
+  "tested": "6.7.1",
   "requires_php": "7.4",
   "last_updated": "2024-11-19 16:45:00",
   "sections": {
