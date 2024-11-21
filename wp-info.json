@@ -1,0 +1,22 @@
+{
+  "name": "Tailwind CSS",
+  "version": "0.1.0",
+  "author": "<a href='https://github.com/moveyourdigital'>Move Your Digital</a>",
+  "author_profile": "https://github.com/moveyourdigital",
+  "homepage": "https://github.com/moveyourdigital/wp-tailwind-css",
+  "download_link": "https://github.com/moveyourdigital/wp-tailwind-css/archive/refs/heads/main.zip",
+  "support_url": "https://github.com/moveyourdigital/wp-tailwind-css/issues",
+  "requires": "5.8",
+  "tested": "6.5.3",
+  "requires_php": "7.4",
+  "last_updated": "2024-11-19 16:45:00",
+  "sections": {
+    "description": "Gutenberg Block Editor with Tailwind CSS.",
+    "installation": "Click the <i>activate</i> button.",
+    "changelog": "<h4>0.1.0</h4><ol><li>Initial.</li></ol>"
+  },
+  "banners": {
+    "low": "https://github.com/moveyourdigital/wp-tailwind-css/raw/main/assets/banner-772x250.jpg",
+    "high": "https://github.com/moveyourdigital/wp-tailwind-css/raw/main/assets/banner-1544x500.jpg"
+  }
+}
